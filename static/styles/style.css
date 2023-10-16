@@ -11,7 +11,7 @@
 }
 
 .img {
-    max-height: 700px;
+    max-height: 500px;
     max-width: 500px;
   }
   
@@ -77,16 +77,16 @@
 }
 
 .app-picture{
-    width: 90%;
-    height: 90%;
+    width: 60%;
+    height: 60%;
     float: right;
 }
 
 .app-picture img{
     width: 50%;
-    margin-top: 30px;
+    margin-top: -10px;
     padding: 10px;
-    margin-left: 600px;
+    margin-left: 200px;
 }
 
 .choose-file{
